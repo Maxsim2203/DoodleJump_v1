@@ -1,2 +1,2 @@
-# DoodleJump_v1
+# DoodleJump relased version
 DoodleJump on WinForm + Net4.8
